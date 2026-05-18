@@ -233,7 +233,8 @@ mini/
 ├── Untitled16.ipynb                  # Experimentation notebook
 ├── Untitled19.ipynb                  # Additional experiments
 ├── Untitled8.ipynb                   # Feature engineering tests
-└── README.md                         # This file
+├── README.md                         # This file
+└── GA-CNN                            # Previously tried CNN approach
 ```
 
 ---
